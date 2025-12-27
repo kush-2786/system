@@ -12,7 +12,7 @@ public class HospitalManagement {
 
     private static final String url = "jdbc:mysql://127.0.0.1:3306/Hospital";
     private static final String user = "root";
-    private static final String passwd = "HelloKushal";
+    private static final String passwd = "yourPasswordHere";
 
     public static void main(String[] args) {
 
